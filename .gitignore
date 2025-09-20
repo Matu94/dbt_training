@@ -1,4 +1,4 @@
 # Ignore macOS folder settings file
 .DS_Store
-logs
-target
+logs/
+target/
